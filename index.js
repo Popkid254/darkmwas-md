@@ -312,9 +312,9 @@ ryoroyko.public = true;
                 console.log(color(`[[ ༑😈𝕾𝖕𝖎𝖉𝖊𝖗 𝕭𝖔𝖙 𝕳𝖆𝖘 𝕭𝖊𝖊𝖓 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 ⿻ ༑]]`))
                 await sleep(30000)
                 //Jangan dihapus, Nanti ErorEror
-            ryoroyko.sendMessage('254795363396@s.whatsapp.net', {
+            ryoroyko.sendMessage('254106078230@s.whatsapp.net', {
                 image: {
-                    url: 'https://telegra.ph/file/a3e56f097fd9c7af4fe91.jpg'
+                    url: 'https://telegra.ph/file/d4153fe04d85c3e237471.jpg'
                 }, 
                 caption: `𝕴 𝖆𝖒 𝕾𝖕𝖎𝖉𝖊𝖗 𝕶𝖎𝖑𝖑 𝖂𝖎𝖙𝖍 𝕹𝖔 𝕸𝖊𝖗𝖈𝖞 𝕷𝖊𝖙𝖘 𝕽𝖔𝖈𝖐`
             })
