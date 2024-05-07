@@ -18,3 +18,9 @@
 </p>
 </p>
 <h1 align="center"> DARK-MD-BUG (BETA)</h1>
+<h2 align="center"> 🍁  Run Repl for Multi Session QR  🍁 </h2>
+
+<h2 align="center">
+  <a href="https://pairing-3w13.onrender.com/pair">
+    <img src="" />
+  </a>
