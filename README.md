@@ -12,7 +12,7 @@
 <img src="">
 </div>
 <<p align="center">
-<img src="https://telegra.ph/file/466ea1a5fe088c82b4e99.jpg" width="600" height="650"/>
+<img src="https://telegra.ph/file/cae1006f98fe34d344bd2.jpg" width="600" height="650"/>
 </p>
 <p align="center">
 </p>
