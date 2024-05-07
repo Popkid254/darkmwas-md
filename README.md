@@ -2,8 +2,8 @@
   <body>
     <p align="center"> Introducing ❝DARK 𝐭𝐞𝐜𝐡❞, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
     <p align="center">
-  <a href="https://i.imgur.com/jx17oHT.gif">
-    <img alt="="300"
+  <a href="">
+    <img alt="="150"
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=❝DARK-MD❞-BUG;WHATSAPP BUG+BOT;CREATED+BY+mwas" alt="Typing SVG" /></a>
   </p>
 <h1 align="center">🔥 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝐭𝐨❝𝐝𝐚𝐫𝐤-𝐦𝐰𝐚𝐬-𝐦𝐝❞🔥</h1>
