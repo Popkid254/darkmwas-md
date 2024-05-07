@@ -22,5 +22,5 @@
 
 <h2 align="center">
   <a href="https://pairing-3w13.onrender.com/pair">
-    <img src="https://repl.it/badge/github/quiec/whatsasena" />
+    <img src="https://render/badge/github/quiec/whatsasena" />
   </a>
