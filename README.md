@@ -34,3 +34,6 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 Deploy
+## License
+
+The *BMW-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
