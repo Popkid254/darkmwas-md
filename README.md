@@ -17,4 +17,4 @@
 <p align="center">
 </p>
 </p>
-<h1 align="center"> DARK-MD-BUG (Beta)</h1>
+<h1 align="center"> DARK-MD-BUG (BETA)</h1>
