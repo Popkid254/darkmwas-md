@@ -1,5 +1,4 @@
 # darkmwas-md
-# 𝐬𝐤𝐲𝐧𝐞𝐭_𝐦𝐝-𝐯𝟏
   <body>
     <p align="center"> Introducing ❝skynet 𝐭𝐞𝐜𝐡❞, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
     <p align="center">
