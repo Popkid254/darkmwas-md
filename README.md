@@ -17,10 +17,20 @@
 <p align="center">
 </p>
 </p>
-<h1 align="center"> DARK-MD-BUG (BETA)</h1>
-<h2 align="center"> 🍁  Run Repl for Multi Session QR  🍁 </h2>
+<h1 align="center"> DARK-MD-BUG (BETA)</h1/>
+  
+## STEPS TO DEPLOY YOUR BOT
+  
+1, Star the repo up there then click Here To  [`FORK`](## STEPS TO DEPLOY YOUR BOTk)
 
-<h2 align="center">
-  <a href="https://pairing-3w13.onrender.com/pair">
-    <img src="https://repl.it/badge/github/quiec/whatsasena" />
-  </a>
+2,   ***[`TAP HERE TO SCAN PAIRING CODE`](https://pairing-3w13.onrender.com/pair)***
+# Instalasi
+
+## Deployment Methods
+## Heroku Buildpack
+```bash
+heroku/nodejs
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+```
+Deploy
